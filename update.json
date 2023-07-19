@@ -1,0 +1,13 @@
+{
+    "backups_api": "http://饭太硬.top/tv",
+    "api":"http://xhww.fun:63/小米/DEMO.json",
+    "update_apk_size":"28.9m",//文件大小
+    "showKouling":"",//复制口令
+    "update_constraint": true,//是否强制更新
+    "update_content":"",   //更新内容
+    
+    "update_url": "",//直链
+    "version_code":1,
+    "version_name":"1.0.1",
+    "pan_url":"https://wwt.lanzouw.com/yingshi"//网盘
+}
