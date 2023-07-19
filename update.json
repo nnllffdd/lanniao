@@ -1,6 +1,7 @@
 {
     "backups_api": "http://饭太硬.top/tv",
     "api":"http://xhww.fun:63/小米/DEMO.json",
+	"official":"http://lanniao.app",
     "update_apk_size":"28.9m",//文件大小
     "showKouling":"",//复制口令
     "update_constraint": true,//是否强制更新
@@ -9,5 +10,50 @@
     "update_url": "",//直链
     "version_code":1,
     "version_name":"1.0.1",
-    "pan_url":"https://wwt.lanzouw.com/yingshi"//网盘
+    "pan_url":"https://wwt.lanzouw.com/yingshi",//网盘
+	"banner": [
+    	    /*首页banner
+        {
+            "bannerUrl": "https://wwt.lanzouw.com/yingshi",
+            "bannerImg": "https://pic.imgdb.cn/item/62b97fa81d64b0706616c5c4.jpg"
+        },
+        {
+            "bannerUrl": "https://wwt.lanzouw.com/yingshi",
+            "bannerImg": "https://pic.imgdb.cn/item/62b97fa81d64b0706616c5c4.jpg"
+        }
+        
+        */
+    ],
+    "my": [
+        /*我的页面赞助
+        {
+            "bannerUrl": "https://wwt.lanzouw.com/yingshi",
+            "bannerImg": "https://5b0988e595225.cdn.sohucs.com/images/20190211/73a86526d1924fa0bc019cc82fbb8d94.png",  
+            "bannerDesc": "领红包"
+
+        },
+        {
+            "bannerUrl": "https://wwt.lanzouw.com/yingshi",
+            "bannerImg": "https://bkimg.cdn.bcebos.com/pic/8435e5dde71190ef76c679315d498a16fdfaae51ca98?x-bce-process=image/resize,m_lfit,w_536,limit_1/format,f_auto",  
+            "bannerDesc": "领会员"
+
+        },
+        {
+            "bannerUrl": "https://wwt.lanzouw.com/yingshi",
+            "bannerImg": "https://pic.616pic.com/ys_img/00/15/73/uoEbDkAKNX.jpg",  
+            "bannerDesc": "分享回应"
+
+        }
+        */
+    ],
+     "detail": [
+         /*播放页广告
+        {
+            "bannerUrl": "https://wwt.lanzouw.com/yingshi",
+            "bannerImg": "https://pic.imgdb.cn/item/62b97fa81d64b0706616c5c4.jpg",  
+            "bannerDesc": "领红包"
+
+        }
+        */
+    ]
 }
